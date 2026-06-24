@@ -25,5 +25,10 @@ SQL analytics project built in Google BigQuery using an e-commerce dataset.
 
 ## Files
 
-- `sql/final_query.sql` – SQL query
-- `screenshots/looker_dashboard.png` – dashboard screenshot
+- `sql/final_query.sql` - SQL query
+- `screenshots_looker_dashboard.png` - Dashboard screenshot
+
+## Dashboard
+
+Looker Studio Dashboard:
+https://datastudio.google.com/reporting/90362807-f536-4c10-87ac-f066a5c955bb/page/tEnnC
